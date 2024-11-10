@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![ThanaphatNorth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanaphatNorth&show_icons=true)
+![ThanaphatNorth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanaphatNorth&show_icons=true&theme=radical)
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Framework-React-blue)
