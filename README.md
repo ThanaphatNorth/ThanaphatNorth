@@ -25,7 +25,7 @@ Here are a few of my favorite projects:
 ---
 
 ### 🌐 Connect with Me:
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thanaphat-chirutpadathorn/))
+- [LinkedIn](https://www.linkedin.com/in/thanaphat-chirutpadathorn/)
 - [Portfolio](https://thanaphat-north.com/)
 
 ---
