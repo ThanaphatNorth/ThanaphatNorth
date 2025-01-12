@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm a Technical Lead.
   
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Nest JS](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white)
-  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
