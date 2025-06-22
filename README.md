@@ -62,13 +62,6 @@ Welcome to my GitHub profile! I'm a Technical Lead.
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-
----
-
-### 🚀 Featured Projects:
-Here are a few of my favorite projects:
-- [**Initial Node**](https://github.com/ThanaphatNorth/initial-node-js): The Node.js Project Code Structure Initializer is a utility script designed to simplify the setup of new Node.js applications. It automatically creates a well-organized folder structure, initializes npm, and sets up essential starter files, helping developers save time and maintain consistency across projects. This tool is ideal for quickly bootstrapping scalable and maintainable Node.js applications.
-
 ---
 
 ### 📈 My Stats:
