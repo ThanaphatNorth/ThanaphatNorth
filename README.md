@@ -65,7 +65,8 @@ Welcome to my GitHub profile! I'm a Technical Lead.
 ---
 
 ### 📈 My Stats:
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThanaphatNorth&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanaphatNorth&layout=donut)](https://github.com/ThanaphatNorth/github-readme-stats)
 ---
 
 ### 🌐 Connect with Me:
